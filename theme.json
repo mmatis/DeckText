@@ -1,0 +1,84 @@
+{
+    "name": "DeckText",
+    "author": "Mike Matis",
+    "target": "System-Wide",
+    "manifest_version": 3,
+    "description": "A set of modular tweaks to increase the size of the Steam Deck's UI text.",
+    "inject": {
+        "shared.css": ["QuickAccess", "SP", "MainMenu"]
+    },
+    "patches": {
+        "Virtual Keyboard" : {
+           "type": "checkbox",
+            "values": {
+                "No": {},
+                "Yes": {
+                    "vkeyboard.css": ["SP"]
+                }
+            }
+        },
+        "Main Manu" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "mainmenu.css": ["MainMenu"]
+                }
+            }
+        },
+        "Header" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "header.css": ["SP"]
+                }
+            }
+        },
+        "Footer" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "footer.css": ["SP"]
+                }
+            }
+        },
+        "Settings" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "settings.css": ["SP"]
+                }
+            }
+        },
+        "In-Game Menu" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "ingame.css": ["MainMenu"]
+                }
+            }
+        },
+        "QuickAccess" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "qam.css": ["QuickAccess"]
+                }
+            }
+        },
+        "Library" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "library.css": ["SP"]
+                }
+            }
+        }
+    }
+}

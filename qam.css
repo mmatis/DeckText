@@ -1,0 +1,126 @@
+.quickaccessmenu_Tab_1S76C svg {
+    width: 36px;
+    height: 36px;
+}
+
+.quickaccessmenu_Title_34nl5 {
+font-size: 2em;
+}
+
+.quickaccesscontrols_PanelSectionTitle_2iFf9 {
+font-size: 1.3em;
+}
+
+.gamepadslider_SliderControlWithIcon_2M8Pt {
+    align-items: center;
+}
+
+
+.gamepadslider_SliderControlWithIcon_2M8Pt .gamepadslider_Icon_21uKi {
+    height: 30px;
+    width: 30px;
+}
+
+.gamepadslider_SliderTrack_Mq25N {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.gamepadslider_SliderHandle_2yVKj {
+    height: 26px;
+    width: 26px;
+}
+
+.gamepaddialog_FieldLabel_3b0U- {
+    font-size: 1.3em;
+}
+
+.gamepaddialog_FieldLeadIcon_OKYIj svg {
+    height: 32px;
+}
+
+.gamepaddialog_FieldLabel_3b0U- {
+    align-items: center;
+    line-height: 1.2em;
+}
+
+button.gamepaddialog_Button_1kn70.DialogButton, button.gamepaddialog_Button_1kn70.DialogButton.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled, button.gamepaddialog_Button_1kn70.DialogButton:enabled.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active, button.gamepaddialog_Button_1kn70.DialogButton:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:hover, button.gamepaddialog_Button_1kn70.DialogButton:hover.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover, button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary {
+        font-size: 1.3em;
+}
+
+.quickaccessmenu_Title_34nl5.Panel.Focusable svg {
+    max-width: 16px;
+    transform: translateY(-12px);
+}
+
+.quickaccessmenu_Title_34nl5 svg{
+    max-width: 16px;
+    transform: translateY(-12px);
+}
+
+.GamepadMode.friendlist .TabPanelHeader .NewChatGroupButton, .GamepadMode.friendlist .TabPanelHeader .AddFriendButton, .GamepadMode.friendlist .TabPanelHeader .FriendsInvitesButton {
+    width: 32px;
+    height: 32px;
+    color: #8b929a;
+}
+
+.GamepadMode.friendlist .FriendsListSteamDeckTabs {
+    padding-bottom: 16px;
+}
+
+.friendslist_TabBumper_3Jr0A.GamepadMode svg, .GamepadMode .friendslist_TabBumper_3Jr0A svg {
+    height: 32px;
+}
+
+.GamepadMode.friendlist .FriendsListTab>.SVGIcon_Button {
+    height: 32px; 
+}
+
+.steamavatar_avatarHolder_1qjsP.Medium {
+    height: 42px;
+    width: 42px;
+}
+
+.GamepadMode.friendlist .TabPanelHeader svg {
+    width: 32px;
+    height: 32px;
+}
+
+.friendGroup .groupName.GamepadMode, .GamepadMode .friendGroup .groupName {
+    font-size: 1.2em;
+}
+
+.ingame .personanameandstatus_playerName_1ocG6.GamepadMode, .GamepadMode .ingame .personanameandstatus_playerName_1ocG6 {
+    font-size: 1.5em;
+}
+
+.ingame .personanameandstatus_gameName_1pRZ3.personanameandstatus_richPresenceLabel_1whoN.GamepadMode, .GamepadMode .ingame .personanameandstatus_gameName_1pRZ3.personanameandstatus_richPresenceLabel_1whoN {
+    font-size: 1.1em;
+    margin-top: 2px;
+}
+
+.friendGroup.offlineFriends .groupName, .friendGroup.onlineFriends .groupName {
+    font-size: 1.2em;
+}
+
+.friendGroup.offlineFriends .groupName .groupCount.GamepadMode, .GamepadMode .friendGroup.offlineFriends .groupName .groupCount, .friendGroup.onlineFriends .groupName .groupCount.GamepadMode, .GamepadMode .friendGroup.onlineFriends .groupName .groupCount, .friendGroup .groupName .groupCount.collapsed.GamepadMode, .GamepadMode .friendGroup .groupName .groupCount.collapsed {
+    font-size: 1.2em;
+}
+
+.friend.ingame {
+    margin-top: 5px;
+}
+
+.friendlistListContainer .friend.online.GamepadMode, .GamepadMode .friendlistListContainer .friend.online {
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
