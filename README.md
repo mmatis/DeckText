@@ -18,6 +18,11 @@ This theme is modular and split up by interface area, so you can enable only the
 
 Bear in mind, I'm no front-end developer. I just know enough to be dangerous! So if you see that I've done something foolish, please let me know! Feedback and PRs are welcome. If you post an issue, please provide a screenshot illustrating the problem you are referencing.
 
+## Installation
+1. [Install Decky on your Steam Deck.](https://github.com/SteamDeckHomebrew/decky-loader#installation)
+2. Install the [CSS Loader plugin](https://github.com/suchmememanyskill/SDH-CssLoader) from the Decky plugin store.
+3. I'm working on getting this added to the CSS Loader Theme Database. Until then, you can download this repo and move the `decktext` directory to `/home/deck/homebrew/themes` on your Deck.
+
 ## Future Plans
 - Finish adjusting the sizing for Library, Home, Store, and Friends pages.
 - Add sizing sliders for each module so you can customize the theme to meet your personal preferences.
