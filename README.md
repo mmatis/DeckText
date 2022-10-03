@@ -1,5 +1,5 @@
 # DeckText
-Introducing DeckText! It's a theme for Decky's CSS Loader plugin that bumps up the size of the Steam Deck's UI text and some controls, making everything more accessible for people with diverse needs. Pairs nicely with the dyslexia font provided by the Fonts theme. Currently it modifies: 
+Introducing DeckText! It's a theme for Decky's CSS Loader plugin that bumps up the size of the Steam Deck's UI text and some controls, making everything more accessible for people with diverse needs. Currently it modifies: 
 
 - Main Menu
 - QuickAccess Menu
