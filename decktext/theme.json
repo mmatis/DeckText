@@ -4,9 +4,7 @@
     "target": "System-Wide",
     "manifest_version": 3,
     "description": "A set of modular tweaks to increase the size of the Steam Deck's UI text.",
-    "inject": {
-        "shared.css": ["QuickAccess", "SP", "MainMenu"]
-    },
+    "inject": {},
     "patches": {
         "Virtual Keyboard" : {
            "type": "checkbox",
