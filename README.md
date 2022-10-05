@@ -21,7 +21,7 @@ Bear in mind, I'm no front-end developer. I just know enough to be dangerous! So
 ## Installation
 1. [Install Decky on your Steam Deck.](https://github.com/SteamDeckHomebrew/decky-loader#installation)
 2. Install the [CSS Loader plugin](https://github.com/suchmememanyskill/SDH-CssLoader) from the Decky plugin store.
-3. I'm working on getting this added to the CSS Loader Theme Database. Until then, you can download this repo and move the `decktext` directory to `/home/deck/homebrew/themes` on your Deck.
+3. Look in CSS Loader's theme store/database for DeckText. Alternatively, you can download this repo and move the `decktext` directory to `/home/deck/homebrew/themes` on your Deck. **As of this writing, the version in this repo and whats in the CSS Loader db are identical.**
 
 ## Future Plans
 - Finish adjusting the sizing for Library, Home, Store, and Friends pages.
