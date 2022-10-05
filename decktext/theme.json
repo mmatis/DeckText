@@ -15,7 +15,7 @@
                 }
             }
         },
-        "Main Manu" : {
+        "Main Menu" : {
             "type": "checkbox",
                 "values": {
                     "No": {},
