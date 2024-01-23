@@ -2,7 +2,7 @@
     "name": "DeckText",
     "author": "Mike Matis",
     "target": "System-Wide",
-    "manifest_version": 3,
+    "manifest_version": 9,
     "description": "A set of modular tweaks to increase the size of the Steam Deck's UI text.",
     "inject": {},
     "patches": {
