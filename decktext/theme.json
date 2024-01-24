@@ -1,5 +1,6 @@
 {
-    "name": "DeckText-DEV",
+    "name": "DeckText",
+    "version": "v1.5",
     "author": "Mike Matis",
     "target": "System-Wide",
     "manifest_version": 9,
