@@ -1,0 +1,10 @@
+1.5 - 1/24/2024
+- Fixed virtual keyboard styles not being applied.
+- Fixed some buttons and headings being misaligned or too big in the QAM.
+- Fixed several elements no longer being enlarged due to changes in the game mode UI.
+- Improved sizing and alignment of text and icons on the in-game controller map screen (still not great, but better.)
+- Tweaked Storage page element sizing.
+- Increased game title and info labels on Home tab.
+- Added sizing tweaks to the Downloads tab. They might still be kinda janky.
+
+1.0 - Initial Release - 2022

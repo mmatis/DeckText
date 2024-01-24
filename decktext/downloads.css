@@ -1,0 +1,76 @@
+ 	.BasicUI .downloadgraph_GraphAndStats_3KDkL {
+    height: 30%;
+}
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Status_3BdWq {
+				font-size: 24px;
+    line-height: 32px;
+}
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Stats_3RfkF {
+    width: 400px;
+}
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Stat_5TdA4 {
+			font-size: 14px;
+}
+
+.downloadgraph_StatsPanel_3mdnp .downloadgraph_Figure_eXF8x {
+				font-size: 16px;
+    line-height: 26px;
+}
+
+.downloadgraph_DownloadGraphLegend_hGZq4 .downloadgraph_LegendText_1iulC {
+				font-size: 12px;
+}
+
+ 	.downloads_SectionItem_1VNuY .downloads_Name_35eOQ {
+				font-size: 22px;
+    line-height: 28px;
+	}
+
+	.BasicUI .downloads_SectionItem_1VNuY .downloads_DetailsAndType_Bku7J .downloads_ProgressDetails_sv3ZH, .BasicUI .downloads_SectionItem_1VNuY .downloads_DetailsAndType_Bku7J .downloads_AutoUpdateSettings_22mb5, .BasicUI .downloads_SectionItem_1VNuY .downloads_DetailsAndType_Bku7J .downloads_PatchNotes_3kXEp {
+    font-size: 16px;
+}
+
+.BasicUI .downloads_ContentTypes_1IKba {
+    text-transform: none;
+				font-size: 12px;
+				padding-left: 0px;
+    padding-bottom: 5px;
+    /* height: 30px; */
+    overflow: unset;
+    gap: 0px;
+}
+
+ .BasicUI .downloads_SectionItem_1VNuY.downloads_Active_IbePL {
+    padding: 15px 10px 10px 10px;
+}
+
+.appdetailsplaysection_DetailsProgressContainer_25YVD {
+    border-radius: 5px;
+}
+
+.downloads_SectionItem_1VNuY .downloads_SectionItemColumn_kGTS5.downloads_Right_2WEwE div {
+    text-align: right;
+    font-size: 16px;
+    line-height: 26px;
+				white-space: nowrap;
+				height: 5px;
+    margin-bottom: 15px;
+}
+
+.downloads_SectionItemButtons_31Ig9.downloads_SectionItemButtons_31Ig9 {
+    transform: scale(1.2);
+    margin: 5px;
+}
+
+.downloads_SectionItemStatus_1Sygg .downloads_StartTime_3tEPp {
+				font-size:16px;
+}
+
+.downloads_ProgressDetails_sv3ZH .downloads_Icon_-OgRz {
+    height: 100%;
+    width: 100%;
+    transform: scale(1.5);
+}
