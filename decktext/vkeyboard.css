@@ -1,3 +1,37 @@
-.virtualkeyboard_VirtualKeyboardContainer_33MO2 {
-font-size: 1.5em
+.virtualkeyboardcontainer_VirtualKeyboardContainer_Oel3O {
+font-size: 1.5em;
 }
+
+.DEX .virtualkeyboard_KeyboardKey_2KhPX span {
+				margin-bottom: 0px;
+}
+
+.virtualkeyboard_KeyboardKey_2KhPX .virtualkeyboard_ShiftedLabel_3FZuk {
+				opacity: .75;
+    font-size: 14px;
+}
+
+.virtualkeyboard_KeyboardTabKey_3Gfcs {
+				justify-content:center;
+}
+
+.virtualkeyboard_KeyboardCapsKey_NGv5F {
+				justify-content:center;
+}
+
+.virtualkeyboard_KeyboardLeftShift_2ye7Y {
+				justify-content:center;
+}
+
+.virtualkeyboard_KeyboardBackspace_3LsB3 {
+				justify-content:center;
+}
+
+.virtualkeyboard_KeyboardEnter_IunX6 {
+				justify-content:center;
+}
+
+.virtualkeyboard_KeyboardRightShift_iMZ3T {
+				justify-content:center;
+}
+

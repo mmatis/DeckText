@@ -1,5 +1,5 @@
 {
-    "name": "DeckText",
+    "name": "DeckText-DEV",
     "author": "Mike Matis",
     "target": "System-Wide",
     "manifest_version": 9,
@@ -15,7 +15,7 @@
                 }
             }
         },
-        "Main Menu" : {
+        "Main Manu" : {
             "type": "checkbox",
                 "values": {
                     "No": {},
@@ -51,12 +51,30 @@
                 }
             }
         },
+        "Downloads" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "downloads.css": ["SP"]
+                }
+            }
+        },
         "In-Game Menu" : {
             "type": "checkbox",
                 "values": {
                     "No": {},
                     "Yes": {
                     "ingame.css": ["MainMenu"]
+                }
+            }
+        },
+        "Context Menu" : {
+            "type": "checkbox",
+                "values": {
+                    "No": {},
+                    "Yes": {
+                    "contextmenu.css": ["SP"]
                 }
             }
         },

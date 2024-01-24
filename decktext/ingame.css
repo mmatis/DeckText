@@ -6,11 +6,10 @@
     font-size: 1.3em;
 }
 
-
 .controllerconfiguratorsummary_InputGlyph_3Fz8o .controllerconfiguratorsummary_MediumGlyphIcon_2nNX3 {
-    transform: scale(2.5);
-    margin-left: 10px;
-    margin-right: 10px;
+    transform: scale(1.7);
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .controllerconfiguratorsummary_ControlsListSection_nnOTT .controllerconfiguratorsummary_Title_12Taa {
@@ -89,4 +88,38 @@
 .controllerconfiguratorsummary_ControllerConfiguratorSummary_3TvBV .controllerconfiguratorsummary_BottomControlsSections_2H5S6 .controllerconfiguratorsummary_ControlsListSection_nnOTT {
     width: 22%;
     padding-left: 20px;
+}
+
+.controllerconfiguratorsummary_ControllerConfiguratorSummary_3TvBV .controllerconfiguratorsummary_Right_2_TQS {
+    gap: 15px;
+}
+
+.controllerconfiguratorsummary_ControlsListSection_nnOTT .controllerconfiguratorsummary_Title_12Taa {
+    text-align: center;
+}
+
+.controllerconfiguratorsummary_ControllerConfiguratorSummary_3TvBV .controllerconfiguratorsummary_Left_1cmUf {
+    gap: 15px;
+}
+
+.controllerconfiguratorsummary_BackgroundController_rlz-U {
+    width: 75%;
+    padding-top: 50px;
+}
+
+.controllerconfiguratorsummary_ControlsListSection_nnOTT .controllerconfiguratorsummary_StandardControl_pywHI {
+    font-size: 14px;
+}
+
+.controllerconfiguratormapping_SettingsSource_2qxNZ {
+    font-size: 18px;
+}
+
+.controllerconfiguratormapping_PageListItem_3glxw {
+    font-size: 18px;
+}
+
+.controllerconfiguratormapping_SettingsMode_2qiPH {
+    font-size: 18px;
+    font-weight: bold;
 }

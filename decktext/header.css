@@ -1,11 +1,33 @@
 .searchbar_SearchBox_2a1-s {
-font-size: 1.3em
+				font-size: 1.3em;
+}
+
+.header_HeaderItem_2HnVd.header_Clickable_8sPcK.header_NotificationsIcon_cieWw.Panel {
+    transform: scale(1.2);
+}
+
+.searchbar_SearchAndTitleContainer_17M8g svg {
+				transform: scale(1.2);
 }
 
 .header_HeaderItem_2HnVd.header_BatteryIcon_1_6kL .header_Percentage_1_RjA {
-font-size: 1.3em
+				font-size: 24px;
 }
 
-.header_Clock_1HhLU {
-font-size: 1.3em
+.header_BatteryIconVerticalStack_3XySI {
+    transform: scale(1.2);
+    margin-left: 10px;
+}
+
+.header_HeaderItem_2HnVd.header_WirelessIcon_3alLb svg {
+				transform: scale(1.2);
+}
+
+.header_HeaderItem_2HnVd.header_Clock_1HhLU.Panel {
+    font-size: 24px;
+}
+
+.steamavatar_avatarStatus_1yIzy.right.GamepadMode, .GamepadMode .steamavatar_avatarStatus_1yIzy.right {
+				width: 0px;
+    right: 0px;
 }

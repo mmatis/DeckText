@@ -3,10 +3,6 @@
     height: 36px;
 }
 
-.quickaccessmenu_Title_34nl5 {
-font-size: 2em;
-}
-
 .quickaccesscontrols_PanelSectionTitle_2iFf9 {
 font-size: 1.3em;
 }
@@ -48,14 +44,9 @@ button.gamepaddialog_Button_1kn70.DialogButton, button.gamepaddialog_Button_1kn7
         font-size: 1.3em;
 }
 
-.quickaccessmenu_Title_34nl5.Panel.Focusable svg {
+.quickaccessmenu_Title_34nl5 svg {
     max-width: 16px;
-    transform: translateY(-12px);
-}
-
-.quickaccessmenu_Title_34nl5 svg{
-    max-width: 16px;
-    transform: translateY(-12px);
+    transform: translateY(-6px);
 }
 
 .GamepadMode.friendlist .TabPanelHeader .NewChatGroupButton, .GamepadMode.friendlist .TabPanelHeader .AddFriendButton, .GamepadMode.friendlist .TabPanelHeader .FriendsInvitesButton {
@@ -114,13 +105,3 @@ button.gamepaddialog_Button_1kn70.DialogButton, button.gamepaddialog_Button_1kn7
 .friendlistListContainer .friend.online.GamepadMode, .GamepadMode .friendlistListContainer .friend.online {
     margin-top: 5px;
 }
-
-
-
-
-
-
-
-
-
-

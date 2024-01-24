@@ -7,7 +7,7 @@
 }
 
 .gamepaddialog_GamepadDialogContent_3joNk .DialogHeader {
-    font-size: 1.8em
+    font-size: 1.8em;
 }
 
 .gamepaddialog_Field_S-_La.gamepaddialog_InlineWrapShiftsChildrenBelow_pHUb6 .gamepaddialog_FieldLabel_3b0U- {
@@ -23,9 +23,8 @@
 }
 
 .gamepaddialog_FieldLabel_3b0U- {
-    font-size: 1.3rem;
-    inline-size: 150px;
-    line-height: 1.5rem;
+    inline-size: 40px;
+    font-size: 22px;
 }
 
 .gamepaddialog_FieldDescription_2OJfk {
@@ -33,8 +32,13 @@
     line-height: 1.4rem;
 }
 
+.notificationssettings_NotificationDescription_1ifM6 {
+    font-size: 18px;
+}
+
 .BasicUI .gamepaddialog_GamepadDialogContent_3joNk .DialogSubHeader {
     font-size: 1.3rem;
+    line-height: 1.4em;
 }
 
 .BasicUI .gamepaddialog_GamepadDialogContent_3joNk .DialogControlsSectionHeader {
@@ -57,8 +61,9 @@
 
 .dropdownlabel_DropDownLabelTitle_uDBZW {
     font-size: 1.5rem;
-    padding-top: 4px;
-    padding-bottom: 3px;
+    line-height: 1.5rem;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .gamepaddialog_Field_S-_La button.gamepaddialog_Button_1kn70.DialogButton.gpfocus,
@@ -67,6 +72,10 @@
 .gamepaddialog_Field_S-_La button.gamepaddialog_Button_1kn70.DialogButton:hover.gpfocus,
 .gamepaddialog_Field_S-_La button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.gpfocus {
     font-size: 1.3rem;
+}
+
+.gamepadui_BasicUiRoot_gbo6E * {
+    line-height: 1.3em;
 }
 
 button.gamepaddialog_Button_1kn70.DialogButton,
@@ -84,11 +93,12 @@ button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary {
 
 .gamepaddialog_FieldDescription_2OJfk {
     line-height: 1.4rem;
-
 }
+
 
 .notificationssettings_FriendsDescription_3fPiC.notificationssettings_FriendsDescription_3fPiC {
     font-size: 1.1em;
+    line-height: 18px;
 }
 
 .notificationssettings_ToggleHeader_33Q-M.notificationssettings_ToggleHeader_33Q-M {
@@ -96,13 +106,21 @@ button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary {
 }
 
 .contentmanagement_IsSelected_3VQeL .contentmanagement_DriveName_1rihl, .contentmanagement_IsSelected_3VQeL .contentmanagement_DriveSize_5bG9I, .contentmanagement_IsSelected_3VQeL svg {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.2;
+}
+
+.radio_Button_3lwcR {
+    font-size:16px;
+}
+
+.contentmanagement_InstallFolder_12aBP {
+    padding: 4px 24px 4px 4px;
 }
 
 .contentmanagement_InstallFolder_12aBP svg {
     margin-right: 16px;
-    transform: scale(2);
+    transform: scale(1.7);
     margin-left: 12px;
 }
 
@@ -111,7 +129,7 @@ button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary {
 }
 
 .contentmanagement_LibraryContent_ybEU2 .contentmanagement_DriveUsage_1LvKJ .contentmanagement_DriveName_1rihl {
-    font-size: 1.4em;
+    font-size: 1.1em;
     line-height: 1.3em;
 }
 
@@ -167,4 +185,16 @@ button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary {
 .homesettings_Instructions_1dDcJ.homesettings_Instructions_1dDcJ {
     font-size: 1.15rem;
     line-height: 1.4rem;
+}
+
+.BasicUI .contentmanagement_LibraryContent_ybEU2 {
+    padding-top: 5px;
+}
+
+.DialogContent {
+    padding: 10px;
+}
+
+.contentmanagement_AppsGrid_2n6FN .contentmanagement_AppBodyLeft_d9dlN .contentmanagement_AppInfo__g4ce .contentmanagement_AppInfoItem_1L9a0 {
+    font-size: 10px;
 }

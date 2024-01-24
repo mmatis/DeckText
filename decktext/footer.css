@@ -1,9 +1,14 @@
 .footericons_SizeMedium_3-w0R {
-height: 28px;
+height: 22px;
 }
 
 .actionbuttonlegenditem_ActionButtonLegend_Mbyhb .actionbuttonlegenditem_ActionButtonLabel_31Jnn {
-font-size: 1.3em;
+font-size: 20px;
+}
+
+.actionbuttonlegenditem_ActionButtonGlyph_3Jfd8 {
+transform: scale(1.2);
+padding-right: 5px;
 }
 
 .controllerconfiguratorsummary_PillShapedIcon_1zIGH {
@@ -12,5 +17,5 @@ padding-right: 6px;
 }
 
 .actionbuttonlegenditem_FooterGlyphSize_223Oc {
-height: 30px;
+height: 26px;
 }
