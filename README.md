@@ -1,5 +1,3 @@
-Progress Update 1/19/2024 - This theme is not dead! I'm actively getting DeckText up to date. Expect a new version in the next week or two!
-
 # DeckText
 Introducing DeckText! It's a theme for Decky's CSS Loader plugin that bumps up the size of the Steam Deck's UI text and some controls, making everything more accessible for people with diverse needs. Currently it modifies: 
 
